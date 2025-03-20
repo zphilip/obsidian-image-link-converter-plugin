@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Convert image link format to standard markdown format",
   "author": "Zhu Tianda",
-  "authorUrl": "https://zphilip.github.io/",
+  "authorUrl": "https://github.com/zphilip",
   "minAppVersion": "0.15.0",
   "main": "main.js",
   "isDesktopOnly": true
