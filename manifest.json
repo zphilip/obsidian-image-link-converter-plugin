@@ -7,7 +7,7 @@
   "authorUrl": "https://zphilip.github.io/",
   "minAppVersion": "0.15.0",
   "main": "main.js",
-  "isDesktopOnly": false,
+  "isDesktopOnly": true,
   "scripts": {
     "build": "tsc",
     "dev": "webpack --mode development"
