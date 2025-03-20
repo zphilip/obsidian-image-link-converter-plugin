@@ -1,0 +1,24 @@
+{
+  "id": "obsidian-image-link-converter-plugin",
+  "name": "Image Link Converter",
+  "version": "1.0.0",
+  "description": "Convert Obsidian image link format to standard markdown format",
+  "author": "Zhu Tianda",
+  "minAppVersion": "0.15.0",
+  "main": "main.js",
+  "isDesktopOnly": false,
+  "scripts": {
+    "build": "tsc",
+    "dev": "webpack --mode development"
+  },
+  "dependencies": {
+    "obsidian": "^0.12.0"
+  },
+  "engines": {
+    "obsidian": "^0.12.0"
+  },
+  "permissions": [
+    "read",
+    "write"
+  ]
+}
