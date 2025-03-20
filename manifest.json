@@ -7,19 +7,5 @@
   "authorUrl": "https://zphilip.github.io/",
   "minAppVersion": "0.15.0",
   "main": "main.js",
-  "isDesktopOnly": true,
-  "scripts": {
-    "build": "tsc",
-    "dev": "webpack --mode development"
-  },
-  "dependencies": {
-    "obsidian": "^0.12.0"
-  },
-  "engines": {
-    "obsidian": "^0.12.0"
-  },
-  "permissions": [
-    "read",
-    "write"
-  ]
+  "isDesktopOnly": true
 }
