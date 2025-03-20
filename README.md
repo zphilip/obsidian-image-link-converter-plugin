@@ -1,7 +1,7 @@
-# Obsidian Image Link Converter Plugin
+# Image Link Converter
 
 ## Overview
-The Obsidian Image Link Converter Plugin is designed to convert local image links in your Obsidian notes to an external format. This allows for easier management and access to images hosted on external servers or CDNs.
+The Image Link Converter Plugin is designed to convert local image links in your Obsidian notes to an external format. This allows for easier management and access to images hosted on external servers or CDNs.
 
 ## Features
 - Converts local image links to external URLs.
@@ -10,7 +10,7 @@ The Obsidian Image Link Converter Plugin is designed to convert local image link
 
 ## Installation
 1. Download the plugin files.
-2. Place the `obsidian-image-Link-converter-plugin` folder in your Obsidian plugins directory.
+2. Place the `image-Link-converter` folder in your Obsidian plugins directory.
 3. Enable the plugin in the Obsidian settings under the "Community Plugins" section.
 
 ## Usage
